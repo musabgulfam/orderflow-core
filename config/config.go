@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// Config holds all the configuration settings for our MQTT Motor Backend
+// Config holds all the configuration settings for the backend
 // This struct centralizes all our application settings in one place
 // Each field corresponds to a specific aspect of our application
 type Config struct {
