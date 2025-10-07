@@ -40,7 +40,6 @@ func getEnv(key, defaultValue string) string {
 	return defaultValue
 }
 
-// ...existing code...
 
 // getIntEnv reads an environment variable and converts it to an integer
 func getIntEnv(key string, defaultValue int) int {
